@@ -1,7 +1,7 @@
 ## AxionSpire ✨
 🏳️‍🌈 *Queer-owned Minecraft server project*
 
-👋 Hello! We are an innovative Minecraft: Java Edition server creating a playable story.
+👋 Hello! We an innovative Minecraft: Java Edition server network creating a playable story.
 
 📚 Our server is heavily based on lore, and we have a cyber-themed backstory behind most things.
 
