@@ -1,5 +1,5 @@
 ## AxionSpire ✨
-🏳️‍🌈 *Queer-owned Minecraft server project*
+🏳️‍🌈 *LGBTQ+ owned, story-based Minecraft server project*
 
 👋 Hello! We an innovative Minecraft: Java Edition server network creating a playable story.
 
