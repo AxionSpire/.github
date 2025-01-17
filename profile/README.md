@@ -10,5 +10,7 @@
 🥞 Fun fact! Our team eats many different types of food for breakfast. I ([Aelithron](https://github.com/aelithron)) like eating breakfast sandwiches with iced coffee :3
 
 🔗 Useful Links:
+
 🌳 Linktree: https://linktr.ee/AxionSpire
+
 🔒 Security issue? Email [security@axionspire.net](mailto:security@axionspire.net).
