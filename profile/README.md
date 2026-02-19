@@ -1,3 +1,5 @@
+**This project is currently archived! I may come back to this in the future, but it isn't happening for a while.**
+
 ## AxionSpire ✨
 🏳️‍🌈 *LGBTQ+ owned, story-based Minecraft server project*
 
